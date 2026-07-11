@@ -1,3 +1,6 @@
+<img width="1558" height="327" alt="photo_6185703984258026687_w" src="https://github.com/user-attachments/assets/728e3d3d-233c-4a18-b189-0a0a7f82e17c" />
+<img width="6400" height="4267" alt="stylesmscaptions copy" src="https://github.com/user-attachments/assets/ddf2f231-5a0a-44a2-bea6-1b6be47fb013" />
+
 # MS Auto Captions 🎬 | AI-Driven Social Video Automation Engine
 
 A commercial, production-ready Windows desktop application that automates localized speech-to-text transcription, word-by-word animated subtitle synchronization, and video matrix rendering in a single click.
