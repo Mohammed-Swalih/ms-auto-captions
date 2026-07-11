@@ -10,6 +10,7 @@ Launched publicly on **Gumroad** and featured on **Product Hunt**, this software
 🔗 **Live Product Links:**
 * [View on Gumroad](https://mswalihofficial.gumroad.com/l/ms_auto_captions)
 * [View on Product Hunt](https://www.producthunt.com/products/ms-auto-captions?launch=ms-auto-captions)
+* [View demo on YouTube](https://youtube.com/shorts/HxVkSBoNcec?si=RNR3axCZ4jJYbkDf)
 
 ---
 
